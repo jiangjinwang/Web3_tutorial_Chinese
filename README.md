@@ -22,7 +22,7 @@ Infura 测试网水龙头：https://www.infura.io/faucet/sepolia
 - 其他可能会用到的技术文档
     - [Solidity技术手册](https://www.freecodecamp.org/chinese/news/learn-solidity-handbook/#what-are-function-modifiers)
     - [以太坊官方文档](https://ethereum.org/zh)
-    - [Solidity官方文档](https://docs.soliditylang.org/zh/v0.8.20/)
+    - [Solidity官方文档](https://docs.soliditylang.org/zh-cn/stable/)
     - [Chainlink官方文档](https://docs.chain.link/)
     - [Hardhat官方文档](https://hardhat.org/)
     - [ether.js官方文档](https://docs.ethers.org/v6/)
@@ -268,13 +268,13 @@ Infura 测试网水龙头：https://www.infura.io/faucet/sepolia
 - [开源软件许可协议简介](https://developer.aliyun.com/article/25089)
 - [EVM（以太坊虚拟机） 介绍](https://ethereum.org/zh/developers/docs/evm)
     - [EVM 版本](https://docs.soliditylang.org/en/v0.8.21/using-the-compiler.html) 
-- [Solidity 编译器介绍](https://docs.soliditylang.org/zh/v0.8.16/using-the-compiler.html) 
-- [Solidity 官方文档](https://docs.soliditylang.org/zh/v0.8.16/index.html) 
+- [Solidity 编译器介绍](https://docs.soliditylang.org/zh-cn/stable/using-the-compiler.html) 
+- [Solidity 官方文档](https://docs.soliditylang.org/zh-cn/stable/) 
 ## Solidity 基础数据类型
-- [Solidity 类型官方文档](https://docs.soliditylang.org/zh/v0.8.16/types.html#) 
+- [Solidity 类型官方文档](https://docs.soliditylang.org/zh-cn/stable/types.html) 
 - [Bytes vs bytes32](https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32)
 ## Solidity 函数
-- [智能合约结构](https://docs.soliditylang.org/zh/v0.8.17/layout-of-source-files.html)
+- [智能合约结构](https://docs.soliditylang.org/zh-cn/stable/structure-of-a-contract.html)
 - [如何拼接两个string变量（英文）](https://medium.com/@jamaltheatlantean/how-to-concatenate-two-strings-using-solidity-fada6051b1a6) 
 ## Solidity 存储模式：memory, storage, calldata
 这一节知识是底层原理，不需要完全理解也可以继续学习，这部分英文文档会更加清晰。
@@ -285,9 +285,9 @@ Infura 测试网水龙头：https://www.infura.io/faucet/sepolia
 ## Solidity 基础数据结构：结构体，数组，和映射
 Solidity 官方文档中，关于数据和结构体，英文文档比中文文档在定义上表述更清晰。
 - [数据结构 - 数组（英文）](https://docs.soliditylang.org/en/v0.8.24/types.html#arrays)
-    - [数据结构 - 数组（中文对照）](https://docs.soliditylang.org/zh/v0.8.17/types.html#arrays)
+    - [数据结构 - 数组（中文对照）](https://docs.soliditylang.org/zh-cn/stable/types.html#arrays)
 - [数据结构 - 结构体（英文）](https://docs.soliditylang.org/en/v0.8.24/types.html#structs)
-    - [数据结构 - 结构体（中文对照）](https://docs.soliditylang.org/zh/v0.8.17/types.html#structs)
+    - [数据结构 - 结构体（中文对照）](https://docs.soliditylang.org/zh-cn/stable/types.html#arrays)
 ## 合约间交互：工厂模式
 - [Solidity 工厂模式介绍](https://learnblockchain.cn/article/1952)
 - [如何使用工厂模式（英文）](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
